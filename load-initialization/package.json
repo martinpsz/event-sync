@@ -1,0 +1,14 @@
+{
+  "name": "load-initialization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prepare-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "s3-sync-client": "^4.3.1"
+  }
+}
